@@ -1,0 +1,202 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "Universität Wien"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "Universität Graz"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "Universität Innsbruck"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "Universität Salzburg"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "Universität Basel"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "Universität Bern"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "Universität Zürich"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "Universität Augsburg"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "Freie Universität Berlin"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "Humboldt-Universität Berlin"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "Universität Bochum"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "value": "Universität Bonn"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "value": "Technische Universität Darmstadt"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "value": "Katholische Universität Eichstätt-Ingolstadt"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "value": "Universität Erlangen-Nürnberg"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "value": "Universität Frankfurt a. M."
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "value": "Universität Freiburg i. Br."
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "value": "Universität Göttingen"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "value": "Universität Halle-Wittenberg"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "value": "Universität Hamburg"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "value": "Universität Heidelberg"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "value": "Universität Jena"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "value": "Universität Kiel"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "value": "Universität Köln"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "value": "Universität Konstanz"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "value": "Universität Leipzig"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "value": "Universität Mainz"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "value": "Universität Marburg"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "value": "Universität München"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "value": "Universität Münster"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "value": "Universität Osnabrück"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "value": "Universität Regensburg"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "value": "Universität Rostock"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "value": "Universität des Saarlandes"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "value": "Universität Trier"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "value": "Universität Tübingen"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "value": "Universität Würzburg"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "value": "Universität Gießen"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "value": "Universität Greifswald"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "value": "Universität Mannheim"
+  }
+}

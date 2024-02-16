@@ -1,0 +1,187 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "skills > introduction to the discipline"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "skills > languages > ancient languages"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "digital archaeology > in general or unspecified"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "digital archaeology > AutoCAD"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "digital archaeology > databases"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "digital archaeology > GIS"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "skills > research and web resources"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "digital archaeology > other"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "methods and methodology > in general or unspecified"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "methods and methodology > documentation > architecture"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "methods and methodology > documentation > objects"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "value": "methods and methodology > field archaeology"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "value": "methods and methodology > mathematics and statistics"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "value": "museum studies > in general or unspecified"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "value": "museum studies > exhibition design"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "value": "museum studies > museum- or collection-based courses"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "value": "museum studies > working in museums or collections, other"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "value": "museum studies > other"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "value": "theory, methods, and methodology > cultural heritage management"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "value": "theory, methods, and methodology > experimental archaeology"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "value": "methods and methodology > restoration"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "value": "theory, methods, and methodology > in general or unspecified"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "value": "theory, methods, and methodology > specific topic, other"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "value": "skills > photography"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "value": "digital archaeology > 3D and VR/AR technologies"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "value": "skills > public relations"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "value": "methods and methodology > documentation > in general or unspecified"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "value": "skills > drawing"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "value": "methods and methodology > dating and chronologies"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "value": "methods and methodology > documentation > post-excavation analysis"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "value": "skills > languages > modern languages"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "value": "skills > academic writing, presenting, and publishing"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "value": "skills > object description, identification, and comparison"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "value": "theory, methods, and methodology > culture theory and intercultural processes"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "value": "theory, methods, and methodology > gender archaeology"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "value": "theory, methods, and methodology > interpretation of images"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "value": "specific field, other"
+  }
+}

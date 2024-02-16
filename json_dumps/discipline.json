@@ -1,0 +1,57 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "Classical Archaeology"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "Archaeology of the Bronze Age Aegean"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "Archaeology of the Roman Provinces"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "Late Antique and Christian Archaeology"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "Near Eastern Studies"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "Prehistoric Archaeology"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "Medieval and Early Modern Archaeology"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "other discipline"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "interdisciplinary course"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "Archaeological Science"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "Numismatics"
+  }
+}

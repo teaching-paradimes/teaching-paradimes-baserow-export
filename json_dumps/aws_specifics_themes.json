@@ -1,0 +1,562 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "categories, generic > art and visual culture, in general or unspecified"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "art and visual culture > Classicism and Archaism"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "art and visual culture > images of gods and heroes > in general or unspecified"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "art and visual culture > images of gods and heroes > specific ones"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "art and visual culture > images of myths > hybrid creatures"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "art and visual culture > images of myths > Homeric epics"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "art and visual culture > images of war and violence"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "art and visual culture > images of myths > in general or unspecified"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "art and visual culture > images of myths > specific ones, other"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "art and visual culture > nakedness and nudity"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "art and visual culture > polychromy of sculpture"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "value": "art and visual culture > narratives in visual media"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "value": "art and visual culture > other"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "value": "athletics, games, and performances > in general or unspecified"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "value": "athletics, games, and performances > gymnasia and gymnasial culture"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "value": "athletics, games, and performances > other"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "value": "colonisation > Greek colonies"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "value": "colonisation > Roman colonies"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "value": "craft and technology > in general or unspecified"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "value": "craft and technology > buildings and construction work"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "value": "craft and technology > mining and metallurgy"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "value": "craft and technology > pottery"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "value": "craft and technology > resources and raw materials"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "value": "craft and technology > sculpture and stone carving"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "value": "craft and technology > other"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "value": "cult and religion > in general or unspecified"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "value": "cult and religion > cult images"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "value": "cult and religion > festivals and processions"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "value": "cult and religion > ruler or imperial cult"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "value": "cult and religion > specific forms of cult"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "value": "cult and religion > other"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "value": "funerary culture > in general or unspecified"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "value": "funerary culture > funerary representation"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "value": "funerary culture > underworld and after-life"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "value": "funerary culture > other"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "value": "houses, cities, and countryside > baths and bathing culture"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "value": "houses, cities, and countryside > domestic settings and lifestyle"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "value": "houses, cities, and countryside > libraries"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "value": "houses, cities, and countryside > ports and harbours"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "value": "houses, cities, and countryside > rural settlements and hinterlands"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "value": "houses, cities, and countryside > settlement dynamics and urban transformation"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "value": "houses, cities, and countryside > traffic and traffic infrastructure"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "value": "houses, cities, and countryside > villas and villa lifestyle"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "value": "houses, cities, and countryside > other"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "value": "intercultural processes > in general or unspecified"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "value": "intercultural processes > Mediterranean and transalpine Europe"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "value": "intercultural processes > Mediterranean and the Middle East"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "value": "intercultural processes > Aegean and Italy"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "value": "intercultural processes > other"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "value": "societies, polities, and economies > in general or unspecified"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "value": "societies, polities, and economies > agriculture"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "value": "societies, polities, and economies > childhood and age"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "value": "societies, polities, and economies > labour and daily life"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "value": "societies, polities, and economies > economy and trade"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "value": "societies, polities, and economies > gender, sex, and sexuality"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "value": "societies, polities, and economies > representations of \"others\""
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "value": "societies, polities, and economies > slavery"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "value": "societies, polities, and economies > other"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "value": "periods, specific ones > Alexander and his time"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "value": "periods, specific ones > Augustus and his time"
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "value": "periods, specific ones > Roman Greece"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "value": "textual evidence > courses without specific topics"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "value": "textual evidence > textual and material evidence in comparison"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "value": "textual evidence > scripts and textual cultures"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "value": "textual evidence > other"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "value": "themes, other > animals"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "value": "themes, other > banquets"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "value": "themes, other > dated sites and monuments"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "value": "themes, other > dress, bodily adornment, and equipment"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "value": "themes, other > knowledge, education, and intellectuals"
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "value": "themes, other > body history"
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "value": "themes, other > health and medicine"
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "value": "themes, other > music and instruments"
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "value": "themes, other > mythology, in general or unspecified"
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "value": "themes, other > food and nutrition"
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "value": "themes, other > philosophy"
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "value": "societies, polities, and economies > representation of rulers and other individuals"
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "value": "themes, other > post-Classical transformation of monuments and objects"
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "value": "themes, other > shipping, shipwrecks, and maritime trade"
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "value": "athletics, games, and performances > theatre and theatrical culture"
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "value": "themes, other > warfare, military, and military-related topics"
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "value": "themes, other > water and water management"
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "value": "themes, other > Wonders of the World"
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "value": "themes, other > other"
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "value": "intercultural processes > Roman Empire"
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "value": "houses, cities, and countryside > in general or unspecified"
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "value": "societies, polities, and economies > borders and frontiers"
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "value": "colonisation > Phoenician and/or Punic colonies"
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "value": "themes, other > Roman provinces, specific ones"
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "value": "art and visual culture > images, other specific categories"
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "value": "themes, other > coinage and history of money"
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "value": "themes, other > nature and environment"
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "value": "art and visual culture > idealism"
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "value": "textual evidence > courses on specific topics"
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "value": "art and visual culture > historical representations"
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "value": "art and visual culture > copies and \"Kopienkritik\""
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "value": "art and visual culture > images in public spaces"
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "value": "cult and religion > votive offerings"
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "value": "athletics, games, and performances > sports and athletics"
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "value": "colonisation > in general or unspecified"
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "value": "art and visual culture > memorials"
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "value": "societies, polities, and economies > social memory"
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "value": "art and visual culture > artists, specific ones"
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "value": "art and visual culture > naturalism, genre sculpture, and grotesques"
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "value": "art and visual culture > groups of statues"
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "value": "periods, specific ones > person-centred periods, other"
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "value": "cult and religion > Early Christianity"
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "value": "art and visual culture > ornaments"
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "value": "themes, other > lighting"
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "value": "periods, specific ones > other"
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "value": "categories, generic > introduction to the discipline"
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "value": "colonisation > other"
+  }
+}

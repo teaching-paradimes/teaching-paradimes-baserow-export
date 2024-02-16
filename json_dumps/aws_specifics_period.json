@@ -1,0 +1,62 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "Bronze Age"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "Early Iron Age"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "Archaic period"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "Classical period"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "Hellenistic period"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "Greek, multi-period or unspecified"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "Republican period"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "Imperial period"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "Roman, multi-period or unspecified"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "Graeco-Roman antiquity, in general"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "Late Antiquity"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "value": "other period"
+  }
+}

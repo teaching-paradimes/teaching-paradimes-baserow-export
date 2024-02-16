@@ -1,0 +1,697 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "Greece, western > Acarnania"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "Aegean > in general or unspecified"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "Aegean > Aegina"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "Egypt > Alexandria"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "Asia Minor > Caria > Aphrodisias"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "Middle East > Arabia"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "Peloponnese > Arcadia"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "Athens and Attica > in general or unspecified"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "Athens and Attica > specific site or monument"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "Britannia/Great Britain"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "Italy, southern > Campania"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "value": "Asia Minor > Caria > in general or unspecified"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "value": "Pannonia superior/inferior > Carnuntum"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "value": "Africa, northern > Carthage"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "value": "Caucasus region"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "value": "Celts and Celtic sites"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "value": "Italy, central > in general or unspecified"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "value": "Asia Minor > Commagene"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "value": "Byzantium/Constantinople/Istanbul"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "value": "Peloponnese > Corinth and Corinthia"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "value": "Aegean > Crete"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "value": "Aegean > Cyclades > in general or unspecified"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "value": "Aegean > Cyclades > Delos"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "value": "Greece, central > Delphi"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "value": "Egypt > in general or unspecified"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "value": "Athens and Attica > Eleusis"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "value": "Asia Minor > Ionia > Ephesus"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "value": "Greece, central > Eretria"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "value": "Etruria > in general or unspecified"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "value": "Germania magna"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "value": "Germania inferior > in general or unspecified"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "value": "Germania superior > in general or unspecified"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "value": "Asia Minor > Caria > Halicarnassus"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "value": "Middle East > Israel/Palestine"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "value": "Italy > in general or unspecified"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "value": "Middle East > Jordan"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "value": "Italy, central > Latium > in general or unspecified"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "value": "Asia Minor > Lycia"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "value": "Balkans > Macedonia > in general or unspecified"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "value": "Peloponnese > Messenia"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "value": "Asia Minor > Ionia > Miletus and Didyma"
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "value": "Middle East > Nabataeans and Nabataean sites"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "value": "Middle East > in general or unspecified"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "value": "Africa, northern > in general or unspecified"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "value": "Roman world > north-western provinces"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "value": "Peloponnese > Olympia"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "value": "Italy, central > Latium > Ostia"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "value": "other site or region"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "value": "Middle East > Syria > Palmyra"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "value": "Peloponnese > in general or unspecified"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "value": "Asia Minor > Pergamon"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "value": "Middle East > Phoenicia"
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "value": "Phoenician and/or Punic sites > in general or unspecified"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "value": "Italy, southern > Pompeii and Herculaneum"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "value": "Italy, southern > Poseidonia/Paestum"
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "value": "Asia Minor > Ionia > Priene"
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "value": "Aegean > Rhodes"
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "value": "Rome > in general or unspecified"
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "value": "Rome > specific site or monument"
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "value": "Asia Minor > Ionia > Samos"
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "value": "Scythians"
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "value": "Sicily > in general or unspecified"
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "value": "Italy, southern > in general or unspecified"
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "value": "Middle East > Syria > in general or unspecified"
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "value": "Aegean > Cyclades > Thera"
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "value": "Asia Minor > Troy"
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "value": "Mediterranean > in general or unspecified"
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "value": "Balkans > Thrace"
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "value": "Greek world > in general or unspecified"
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "value": "Roman world > in general or unspecified"
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "value": "Cyprus"
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "value": "Greece > in general or unspecified"
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "value": "Gallia Belgica > Augusta Treverorum/Trier"
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "value": "Mediterranean > eastern"
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "value": "Asia Minor > Ionia > in general or unspecified"
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "value": "Raetia > in general or unspecified"
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "value": "Noricum"
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "value": "Greece, northern > in general or unspecified"
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "value": "Switzerland"
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "value": "Italy, northern > Ravenna"
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "value": "Austria"
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "value": "Germania superior > Augusta Raurica/Augst-Kaiseraugst"
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "value": "Germania superior > Mogontiacum/Mainz"
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "value": "Black Sea"
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "value": "Peloponnese > Mycenae"
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "value": "Italy, northern > in general or unspecified"
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "value": "Roman world > Danube region"
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "value": "Gallia Belgica > in general or unspecified"
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "value": "Pannonia superior/inferior > in general or unspecified"
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "value": "Raetia > Castra Regina/Regensburg"
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "value": "Balkans > in general or unspecified"
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "value": "Germania inferior > Colonia Ulpia Traiana/Xanten"
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "value": "Balkans > Macedonia > Thessaloniki"
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "value": "Mediterranean > western"
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "value": "Europe"
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "value": "Peloponnese > Sparta and Laconia"
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "value": "Greece, northern > Thessaly"
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "value": "Roman world > western provinces"
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "value": "Adriatic Sea"
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "value": "Italy, northern > Marzabotto"
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "value": "Asia > in general or unspecified"
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "value": "Greece, central > Thebes"
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "value": "Middle East > Lebanon"
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "value": "Germania inferior > Colonia Claudia Ara Agrippinensium/Cologne"
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "value": "Asia Minor > in general or unspecified"
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "value": "Balkans > Dacia"
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "value": "Alps and Alpine regions"
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "value": "Iberian Peninsula"
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "value": "Gaul/France"
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "value": "Greece, western > in general or unspecified"
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "value": "Greece, central > in general or unspecified"
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "value": "Aegean > other"
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "value": "Africa, northern > other"
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "value": "Asia > specific site or region"
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "value": "Asia Minor > other"
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "value": "Athens and Attica > other"
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "value": "Balkans > other"
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "value": "Egypt > other"
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "value": "Etruria > specific site or region"
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "value": "Germania inferior > other"
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "value": "Germania superior > other"
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "value": "Greece, central > other"
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "value": "Greece, northern > other"
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "value": "Greece, western > other"
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "value": "Greek world > other"
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "value": "Italy, central > other"
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "value": "Italy, northern > other"
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "value": "Italy, southern > other"
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "value": "Middle East > other"
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "value": "Middle East > Syria > other"
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "value": "Peloponnese > other"
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "value": "Raetia > other"
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "value": "Roman world > other"
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "value": "Sicily > specific site"
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "value": "Aegean > Cyclades > other"
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "value": "Italy, central > Latium > other"
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "value": "Phoenician and/or Punic sites > other"
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "value": "Gallia Belgica > other"
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "value": "Pannonia superior/inferior > other"
+  }
+}

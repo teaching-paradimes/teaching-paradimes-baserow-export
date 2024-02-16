@@ -1,0 +1,182 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "value": "Institut für Klassische Archäologie"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "value": "Institut für Antike: Fachbereich Archäologie (formerly: Institut für Archäologie)"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "value": "Institut für Archäologien (formerly: Institut für Klassische und Provinzialrömische Archäologie; formerly: Institut für Klassische Archäologie)"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "value": "Fachbereich Altertumswissenschaften: Bereich Klassische und Frühägäische Archäologie (formerly: Institut für Klassische Archäologie)"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "value": "Departement Altertumswissenschaften: Fachbereich Klassische Archäologie (formerly: Archäologisches Seminar)"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "value": "Departement Altertumswissenschaften: Fachbereich Ur- und Frühgeschichte und Provinzialrömische Archäologie (formerly: Seminar für Ur- und Frühgeschichte: Jüngere und Provinzialrömische Abteilung; formerly: Seminar für Ur- und Frühgeschichte)"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften: Abteilung Prähistorische Archäologie und Archäologie der Römischen Provinzen (formerly: Institut für Archäologie: Abteilung Ur- und Frühgeschichte und Archäologie der römischen Provinzen; formerly: Institut für Ur- und Frühgeschichte und Archäologie der römischen Provinzen)"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften: Abteilung Archäologie des Mittelmeerraumes (formerly: Institut für Archäologie: Abteilung Archäologie des Mittelmeerraumes; formerly: Institut für Archäologie des Mittelmeerraumes; formerly: Institut für Klassische Archäologie)"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "value": "Institut für Archäologie (formerly: Archäologisches Institut)"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "value": "Professur für Klassische Archäologie"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "value": "Institut für Archäologie: Lehrbereich Klassische Archäologie – Winckelmann-Institut"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften (formerly: Institut für Archäologie)"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "value": "Institut für Archäologie und Kulturanthropologie: Abteilung Klassische Archäologie (formerly: Institut für Kunstgeschichte und Archäologie: Abteilung Klassische Archäologie; formerly: Archäologisches Institut)"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "value": "Fachbereich Architektur: Fachgebiet Klassische Archäologie"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften: Abteilung I: Vorderasiatische und Klassische Archäologie (formerly: Archäologisches Institut)"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften: Abteilung II: Archäologie und Geschichte der römischen Provinzen sowie Archäologie von Münze, Geld und von der Wirtschaft in der Antike (formerly: Institut für Archäologische Wissenschaften: Abteilung II: Archäologie und Geschichte der römischen Provinzen sowie Hilfswissenschaften der Altertumskunde; formerly: Seminar für Griechische und römische Geschichte: Abteilung II: Geschichte und Kultur der römischen Provinzen sowie Hilfswissenschaften der Altertumskunde)"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften: Abteilung für Klassische Archäologie (formerly: Archäologisches Institut)"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "value": "Institut für Archäologische Wissenschaften: Abteilung für Provinzialrömische Archäologie (formerly: Seminar für Alte Geschichte: Abteilung für Provinzialrömische Archäologie)"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "value": "Institut der Altertumswissenschaften: Arbeitsbereich Klassische Archäologie"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "value": "Archäologisches Institut"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "value": "Institut für Kunstgeschichte und Archäologien Europas: Seminar für Klassische Archäologie (formerly: Institut für Klassische Altertumswissenschaft, Klassische Archäologie)"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "value": "Institut für Archäologie und Kulturgeschichte des antiken Mittelmeerraumes (formerly: Archäologisches Institut: Abteilung für Archäologie und Kulturgeschichte des antiken Mittelmeerraums; formerly: Archäologisches Institut: Klassische Archäologie)"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "value": "Institut für Klassische Archäologie und Byzantinische Archäologie (formerly: Institut für Klassische Archäologie; formerly: Seminar für Klassische Archäologie; formerly: Archäologisches Institut)"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "value": "Institut für Altertumswissenschaften: Lehrstuhl für Klassische Archäologie"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "value": "Institut für Klassische Altertumskunde: Abteilung Klassische Archäologie (formerly: Archäologisches Institut)"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "value": "Fachbereich Geschichte und Soziologie: Professur für Mediterrane und Vorderasiatische Archäologie"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "value": "Historisches Seminar: Lehrbereich Klassische Archäologie (formerly: Institut für Klassische Archäologie)"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "value": "Institut für Altertumswissenschaften: Arbeitsbereich Klassische Archäologie (formerly: Institut für Klassische Archäologie)"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "value": "Archäologisches Seminar"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "value": "Institut für Vor- und Frühgeschichtliche Archäologie und Provinzialrömische Archäologie (formerly: Institut für Provinzialrömische Archäologie)"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "value": "Institut für Klassische Archäologie und Christliche Archäologie (formerly: Institut für Klassische Archäologie und Frühchristliche Archäologie; formerly: Archäologisches Seminar)"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "value": "Historisches Seminar: Professur für die Archäologie der Römischen Provinzen"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "value": "Heinrich-Schliemann-Institut für Altertumswissenschaften: Fachgebiet Klassische Archäologie"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "value": "Fachrichtung Altertumswissenschaften: Klassische Archäologie (formerly: Institut für Klassische Archäologie)"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "value": "Fachbereich III: Fach Klassische Archäologie (formerly: Institut für Klassische Archäologie; formerly: Archäologisches Institut)"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "value": "Institut für Altertumswissenschaften"
+  }
+}
