@@ -2,16 +2,19 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "value": "Austria"
+    "value": "Austria",
+    "geonames": "https://www.geonames.org/2782113/austria.html"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "value": "Germany"
+    "value": "Germany",
+    "geonames": "https://www.geonames.org/2921044/germany.html"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "value": "Switzerland"
+    "value": "Switzerland",
+    "geonames": "https://www.geonames.org/2658434/switzerland.html"
   }
 }
