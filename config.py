@@ -8,6 +8,7 @@ BASEROW_USER = os.environ.get("BASEROW_USER")
 BASEROW_PW = os.environ.get("BASEROW_PW")
 BASEROW_TOKEN = os.environ.get("BASEROW_TOKEN")
 JSON_FOLDER = "json_dumps"
+TEI_FOLDER = "tei"
 
 try:
     br_client = BaseRowClient(
