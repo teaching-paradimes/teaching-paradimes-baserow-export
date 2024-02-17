@@ -6,7 +6,8 @@ import os
 from datetime import date
 
 from acdh_tei_pyutils.tei import TeiReader
-from icecream import ic
+
+# from icecream import ic
 from tqdm import tqdm
 
 from config import JSON_FOLDER, TEI_FOLDER, br_client, BASEROW_DB_ID
@@ -21,7 +22,9 @@ db_dict = br_client.fetch_table_field_dict(BASEROW_DB_ID)
 current_day = str(date.today())
 
 
-def get_related_table_info(table_name: str, field_name: str, table_field_dict: dict) -> tuple:
+def get_related_table_info(
+    table_name: str, field_name: str, table_field_dict: dict
+) -> tuple:
     """returns the name and the id of the related table
 
     Args:
@@ -76,7 +79,7 @@ for x in tqdm(files, total=len(files)):
     counter = 0
     for _, tr in data.items():
         counter += 1
-        if counter > 5:
+        if counter > 20:
             break
         tr_node = ET.Element("{http://www.tei-c.org/ns/1.0}row")
         tr_node.attrib["role"] = "data"
@@ -90,10 +93,12 @@ for x in tqdm(files, total=len(files)):
                 td_cell = ET.Element("{http://www.tei-c.org/ns/1.0}cell")
                 for item in value:
                     rs = ET.Element("{http://www.tei-c.org/ns/1.0}rs")
-                    ic(key, table_name)
-                    related_table_id, related_table_name = get_related_table_info(table_name, key, db_dict)
-                    ic(related_table_id, related_table_name)
-                    rs.attrib["ref"] = f"#{related_table_name}__{related_table_id}__{item['id']}"
+                    related_table_id, related_table_name = get_related_table_info(
+                        table_name, key, db_dict
+                    )
+                    rs.attrib[
+                        "ref"
+                    ] = f"#{related_table_name}__{related_table_id}__{item['id']}"
                     rs.attrib["type"] = f"{related_table_name}"
                     rs.text = f"{item['value']}"
                     td_cell.append(rs)

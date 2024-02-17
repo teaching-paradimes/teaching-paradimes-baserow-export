@@ -3,11 +3,11 @@
        <fileDesc>
           <titleStmt>
              <title type="main">name of the current file - will be derived from the baserow-table-name</title>
-             <title type="sub">name of the project</title>
+             <title type="sub">Teaching Paradimes</title>
           </titleStmt>
           <publicationStmt>
              <publisher>
-                <persName key="someorcid">firstname lastname</persName>
+                <persName key="https://orcid.org/0000-0002-0162-9738">Matthias Hoernes</persName>
              </publisher>
              <availability>
                 <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
