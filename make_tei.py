@@ -6,8 +6,10 @@ import os
 from datetime import date
 
 from acdh_tei_pyutils.tei import TeiReader
-from config import JSON_FOLDER, TEI_FOLDER, br_client, BASEROW_DB_ID
+from icecream import ic
 from tqdm import tqdm
+
+from config import JSON_FOLDER, TEI_FOLDER, br_client, BASEROW_DB_ID
 
 
 files = sorted(glob.glob(f"{JSON_FOLDER}/*.json"))
@@ -17,6 +19,28 @@ os.makedirs(TEI_FOLDER, exist_ok=True)
 
 db_dict = br_client.fetch_table_field_dict(BASEROW_DB_ID)
 current_day = str(date.today())
+
+
+def get_related_table_info(table_name: str, field_name: str, table_field_dict: dict) -> tuple:
+    """returns the name and the id of the related table
+
+    Args:
+        table_name (str): the name of current table
+        field_name (str): the name of the current field e.g. "university"
+        table_field_dict (dict): a dict providing information of the tables and fields of the database\
+        as returned by `br_client.fetch_table_field_dict(BASEROW_DB_ID)`
+
+    Returns:
+        tuple: returns the ID and the name of the related table
+    """
+    field_dict = table_field_dict[table_name]["fields"][field_name]
+    related_table_id = field_dict["link_row_table_id"]
+    for _, value in table_field_dict.items():
+        if value["id"] == related_table_id:
+            related_table_name = value["name"]
+            break
+    return related_table_id, related_table_name
+
 
 for x in tqdm(files, total=len(files)):
     doc = TeiReader("tei-template.xml")
@@ -66,7 +90,11 @@ for x in tqdm(files, total=len(files)):
                 td_cell = ET.Element("{http://www.tei-c.org/ns/1.0}cell")
                 for item in value:
                     rs = ET.Element("{http://www.tei-c.org/ns/1.0}rs")
-                    rs.attrib["ref"] = f"#{key}__{item['id']}"
+                    ic(key, table_name)
+                    related_table_id, related_table_name = get_related_table_info(table_name, key, db_dict)
+                    ic(related_table_id, related_table_name)
+                    rs.attrib["ref"] = f"#{related_table_name}__{related_table_id}__{item['id']}"
+                    rs.attrib["type"] = f"{related_table_name}"
                     rs.text = f"{item['value']}"
                     td_cell.append(rs)
             tr_node.append(td_cell)
