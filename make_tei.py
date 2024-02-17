@@ -3,8 +3,10 @@ import shutil
 import glob
 import lxml.etree as ET
 import os
+from datetime import date
+
 from acdh_tei_pyutils.tei import TeiReader
-from config import JSON_FOLDER, TEI_FOLDER
+from config import JSON_FOLDER, TEI_FOLDER, br_client, BASEROW_DB_ID
 from tqdm import tqdm
 
 
@@ -13,10 +15,26 @@ shutil.rmtree(TEI_FOLDER, ignore_errors=True)
 os.makedirs(TEI_FOLDER, exist_ok=True)
 
 
+db_dict = br_client.fetch_table_field_dict(BASEROW_DB_ID)
+current_day = str(date.today())
+
 for x in tqdm(files, total=len(files)):
+    doc = TeiReader("tei-template.xml")
     _, tail = os.path.split(x)
     tei_file_name = tail.replace(".json", ".xml")
+    table_name = tail.replace(".json", "")
+    table_dict = db_dict[table_name]
+    table_id = f"{table_dict['id']}"
     tei_save_path = os.path.join(TEI_FOLDER, tei_file_name)
+    tei_body = doc.any_xpath(".//tei:body")[0]
+    tei_title_main = doc.any_xpath(".//tei:title[@type='main']")[0]
+    tei_title_main.text = f"data dump from baserow table '{table_name}'"
+    name_node = doc.any_xpath(".//tei:name[@xml:id]")[0]
+    name_node.text = table_name
+    idno_node = doc.any_xpath(".//tei:idno")[0]
+    idno_node.text = table_id
+    date_node = doc.any_xpath(".//tei:date")[0]
+    date_node.attrib["when-iso"] = current_day
     with open(x, "r", encoding="utf-8") as fp:
         data = json.load(fp)
     table_node = ET.Element("{http://www.tei-c.org/ns/1.0}table")
@@ -52,8 +70,5 @@ for x in tqdm(files, total=len(files)):
                     rs.text = f"{item['value']}"
                     td_cell.append(rs)
             tr_node.append(td_cell)
-    tei_table_str = ET.tostring(
-        table_node, encoding="utf-8", pretty_print=True, xml_declaration=False
-    ).decode("utf-8")
-    doc = TeiReader(tei_table_str)
+    tei_body.append(table_node)
     doc.tree_to_file(tei_save_path)
