@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+       <fileDesc>
+          <titleStmt>
+             <title type="main">data dump from baserow table 'as_specifics'</title>
+             <title type="sub">Teaching Paradimes</title>
+          </titleStmt>
+          <publicationStmt>
+             <publisher>
+                <persName key="https://orcid.org/0000-0002-0162-9738">Matthias Hoernes</persName>
+             </publisher>
+             <availability>
+                <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY</licence>
+             </availability>
+          </publicationStmt>
+          <sourceDesc>
+            <p>Baserow table <name xml:id="table_name">as_specifics</name> with ID <idno>3036</idno> serialized as TEI/XML with <name>make_tei.py</name></p>
+         </sourceDesc>
+       </fileDesc>
+       <profileDesc>
+         <creation>
+            <date when-iso="2024-02-19"/>
+         </creation>
+      </profileDesc>
+    </teiHeader>
+    <text>
+       <body>
+       <table rows="8" cols="3"><row role="label"><cell role="label">id</cell><cell role="label">order</cell><cell role="label">value</cell></row><row role="data"><cell role="data">1</cell><cell role="data">1.00000000000000000000</cell><cell role="data">archaeobotany</cell></row><row role="data"><cell role="data">2</cell><cell role="data">2.00000000000000000000</cell><cell role="data">archaeometallurgy</cell></row><row role="data"><cell role="data">3</cell><cell role="data">3.00000000000000000000</cell><cell role="data">geoarchaeology</cell></row><row role="data"><cell role="data">4</cell><cell role="data">4.00000000000000000000</cell><cell role="data">human osteoarchaeology and bioarchaeology</cell></row><row role="data"><cell role="data">5</cell><cell role="data">5.00000000000000000000</cell><cell role="data">Archaeological Science, in general or unspecified</cell></row><row role="data"><cell role="data">6</cell><cell role="data">6.00000000000000000000</cell><cell role="data">other</cell></row><row role="data"><cell role="data">7</cell><cell role="data">7.00000000000000000000</cell><cell role="data">analytical methods, other</cell></row><row role="data"><cell role="data">8</cell><cell role="data">8.00000000000000000000</cell><cell role="data">zooarchaeology</cell></row></table></body>
+    </text>
+ </TEI>
