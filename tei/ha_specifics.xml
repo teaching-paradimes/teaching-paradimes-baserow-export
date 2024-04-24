@@ -15,12 +15,12 @@
              </availability>
           </publicationStmt>
           <sourceDesc>
-            <p>Baserow table <name xml:id="table_name">ha_specifics</name> with ID <idno>3034</idno> serialized as TEI/XML with <name>make_tei.py</name></p>
+            <p>Baserow table <name xml:id="table_name">ha_specifics</name> with ID <idno>3124</idno> serialized as TEI/XML with <name>make_tei.py</name></p>
          </sourceDesc>
        </fileDesc>
        <profileDesc>
          <creation>
-            <date when-iso="2024-02-19"/>
+            <date when-iso="2024-04-24"/>
          </creation>
       </profileDesc>
     </teiHeader>

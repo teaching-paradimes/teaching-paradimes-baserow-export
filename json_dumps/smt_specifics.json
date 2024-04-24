@@ -167,21 +167,26 @@
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "value": "theory, methods, and methodology > culture theory and intercultural processes"
+    "value": "0"
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "value": "theory, methods, and methodology > gender archaeology"
+    "value": "theory, methods, and methodology > culture theory and intercultural processes"
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "value": "theory, methods, and methodology > interpretation of images"
+    "value": "theory, methods, and methodology > gender archaeology"
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
+    "value": "theory, methods, and methodology > interpretation of images"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
     "value": "specific field, other"
   }
 }

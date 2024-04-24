@@ -32,11 +32,16 @@
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "value": "Roman Archaeology/Archaeology of the Roman Provinces"
+    "value": "0"
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
+    "value": "Roman Archaeology/Archaeology of the Roman Provinces"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
     "value": "Phoenician and Punic Archaeology"
   }
 }

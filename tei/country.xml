@@ -15,17 +15,17 @@
              </availability>
           </publicationStmt>
           <sourceDesc>
-            <p>Baserow table <name xml:id="table_name">country</name> with ID <idno>3021</idno> serialized as TEI/XML with <name>make_tei.py</name></p>
+            <p>Baserow table <name xml:id="table_name">country</name> with ID <idno>3111</idno> serialized as TEI/XML with <name>make_tei.py</name></p>
          </sourceDesc>
        </fileDesc>
        <profileDesc>
          <creation>
-            <date when-iso="2024-02-19"/>
+            <date when-iso="2024-04-24"/>
          </creation>
       </profileDesc>
     </teiHeader>
     <text>
        <body>
-       <table rows="3" cols="4"><row role="label"><cell role="label">id</cell><cell role="label">order</cell><cell role="label">value</cell><cell role="label">geonames</cell></row><row role="data"><cell role="data">1</cell><cell role="data">1.00000000000000000000</cell><cell role="data">Austria</cell><cell role="data">https://www.geonames.org/2782113/austria.html</cell></row><row role="data"><cell role="data">2</cell><cell role="data">2.00000000000000000000</cell><cell role="data">Germany</cell><cell role="data">https://www.geonames.org/2921044/germany.html</cell></row><row role="data"><cell role="data">3</cell><cell role="data">3.00000000000000000000</cell><cell role="data">Switzerland</cell><cell role="data">https://www.geonames.org/2658434/switzerland.html</cell></row></table></body>
+       <table rows="3" cols="3"><row role="label"><cell role="label">id</cell><cell role="label">order</cell><cell role="label">value</cell></row><row role="data"><cell role="data">1</cell><cell role="data">1.00000000000000000000</cell><cell role="data">Austria</cell></row><row role="data"><cell role="data">2</cell><cell role="data">2.00000000000000000000</cell><cell role="data">Germany</cell></row><row role="data"><cell role="data">3</cell><cell role="data">3.00000000000000000000</cell><cell role="data">Switzerland</cell></row></table></body>
     </text>
  </TEI>

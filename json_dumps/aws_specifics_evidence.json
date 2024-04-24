@@ -2,396 +2,401 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "value": "architecture > in general or unspecified"
+    "value": "0"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "value": "architecture > architectural ornaments"
+    "value": "architecture > in general or unspecified"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "value": "architecture > gates and arches"
+    "value": "architecture > architectural ornaments"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "value": "architecture > houses and domestic settings"
+    "value": "architecture > gates and arches"
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "value": "architecture > palaces"
+    "value": "architecture > houses and domestic settings"
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "value": "architecture > other"
+    "value": "architecture > palaces"
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "value": "pottery > in general or unspecified"
+    "value": "architecture > other"
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "value": "pottery > specific categories"
+    "value": "pottery > in general or unspecified"
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "value": "pottery > vase painting > iconography"
+    "value": "pottery > specific categories"
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "value": "pottery > vase painting > in general or unspecified"
+    "value": "pottery > vase painting > iconography"
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "value": "pottery > other"
+    "value": "pottery > vase painting > in general or unspecified"
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "value": "sculpture > in general or unspecified"
+    "value": "pottery > other"
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "value": "sculpture > architectural sculpture"
+    "value": "sculpture > in general or unspecified"
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "value": "sculpture > bronze sculptures and figurines"
+    "value": "sculpture > architectural sculpture"
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "value": "tombs and necropoleis > funerary sculpture"
+    "value": "sculpture > bronze sculptures and figurines"
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "value": "sculpture > portraits"
+    "value": "tombs and necropoleis > funerary sculpture"
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "value": "tombs and necropoleis > sarcophagi"
+    "value": "sculpture > portraits"
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "value": "sculpture > reliefs > historical or state reliefs"
+    "value": "tombs and necropoleis > sarcophagi"
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "value": "sculpture > specific categories, other"
+    "value": "sculpture > reliefs > historical or state reliefs"
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "value": "settlements and cities > in general or unspecified"
+    "value": "sculpture > specific categories, other"
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "value": "settlements and cities > fortifications"
+    "value": "settlements and cities > in general or unspecified"
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "value": "settlements and cities > gardens"
+    "value": "settlements and cities > fortifications"
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "value": "settlements and cities > public space > agorai"
+    "value": "settlements and cities > gardens"
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "value": "settlements and cities > public space > fora"
+    "value": "settlements and cities > public space > agorai"
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "value": "settlements and cities > other"
+    "value": "settlements and cities > public space > fora"
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "value": "objects and monuments, other > coins"
+    "value": "settlements and cities > other"
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "value": "objects and monuments, other > gems"
+    "value": "objects and monuments, other > coins"
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "value": "objects and monuments, other > fibulae"
+    "value": "objects and monuments, other > gems"
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "value": "objects and monuments, other > glass objects"
+    "value": "objects and monuments, other > fibulae"
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "value": "textual sources > epigraphic evidence"
+    "value": "objects and monuments, other > glass objects"
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "value": "objects and monuments, other > ivory objects"
+    "value": "textual sources > epigraphic evidence"
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "value": "objects and monuments, other > jewellery"
+    "value": "objects and monuments, other > ivory objects"
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "value": "objects and monuments, other > metalwork"
+    "value": "objects and monuments, other > jewellery"
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "value": "objects and monuments, other > mosaics"
+    "value": "objects and monuments, other > metalwork"
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "value": "objects and monuments, other > mural paintings"
+    "value": "objects and monuments, other > mosaics"
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "value": "objects and monuments, other > painting, unspecified"
+    "value": "objects and monuments, other > mural paintings"
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "value": "objects and monuments, other > seals"
+    "value": "objects and monuments, other > painting, unspecified"
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "value": "objects and monuments, other > terracotta figurines"
+    "value": "objects and monuments, other > seals"
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "value": "objects and monuments, other > dress and dress-related evidence"
+    "value": "objects and monuments, other > terracotta figurines"
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "value": "objects and monuments, other > weapons and armour"
+    "value": "objects and monuments, other > dress and dress-related evidence"
   },
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "value": "temples and sanctuaries > in general or unspecified"
+    "value": "objects and monuments, other > weapons and armour"
   },
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "value": "tombs and necropoleis > in general or unspecified"
+    "value": "temples and sanctuaries > in general or unspecified"
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "value": "topography"
+    "value": "tombs and necropoleis > in general or unspecified"
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "value": "categories, generic > visual culture, in general or unspecified"
+    "value": "topography"
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "value": "categories, generic > material culture, in general or unspecified"
+    "value": "categories, generic > visual culture, in general or unspecified"
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "value": "specific sites, monuments or contexts"
+    "value": "categories, generic > material culture, in general or unspecified"
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "value": "survey and landscape archaeology"
+    "value": "specific sites, monuments or contexts"
   },
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "value": "textual sources > literary sources > in general or unspecified"
+    "value": "survey and landscape archaeology"
   },
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "value": "architecture > temples"
+    "value": "textual sources > literary sources > in general or unspecified"
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "value": "sculpture > reliefs > in general or unspecified"
+    "value": "architecture > temples"
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "value": "architecture > theatres"
+    "value": "sculpture > reliefs > in general or unspecified"
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "value": "Roman military > castra and related evidence"
+    "value": "architecture > theatres"
   },
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "value": "architecture > thermae"
+    "value": "Roman military > castra and related evidence"
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
-    "value": "architecture > gymnasia"
+    "value": "architecture > thermae"
   },
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
-    "value": "settlements and cities > specific ones"
+    "value": "architecture > gymnasia"
   },
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
-    "value": "Roman military > limites and related evidence"
+    "value": "settlements and cities > specific ones"
   },
   "57": {
     "id": 57,
     "order": "57.00000000000000000000",
-    "value": "architecture > churches"
+    "value": "Roman military > limites and related evidence"
   },
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "value": "settlements and cities > public space > in general or unspecified"
+    "value": "architecture > churches"
   },
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "value": "settlements and cities > acropoleis"
+    "value": "settlements and cities > public space > in general or unspecified"
   },
   "60": {
     "id": 60,
     "order": "60.00000000000000000000",
-    "value": "categories, generic > small finds, in general or unspecified"
+    "value": "settlements and cities > acropoleis"
   },
   "61": {
     "id": 61,
     "order": "61.00000000000000000000",
-    "value": "sculpture > reliefs > votive reliefs"
+    "value": "categories, generic > small finds, in general or unspecified"
   },
   "62": {
     "id": 62,
     "order": "62.00000000000000000000",
-    "value": "objects and monuments, other > books and miniatures"
+    "value": "sculpture > reliefs > votive reliefs"
   },
   "63": {
     "id": 63,
     "order": "63.00000000000000000000",
-    "value": "architecture > roofs, roof decoration, and bricks"
+    "value": "objects and monuments, other > books and miniatures"
   },
   "64": {
     "id": 64,
     "order": "64.00000000000000000000",
-    "value": "objects and monuments, other > marble and marble objects"
+    "value": "architecture > roofs, roof decoration, and bricks"
   },
   "65": {
     "id": 65,
     "order": "65.00000000000000000000",
-    "value": "temples and sanctuaries > specific ones"
+    "value": "objects and monuments, other > marble and marble objects"
   },
   "66": {
     "id": 66,
     "order": "66.00000000000000000000",
-    "value": "tombs and necropoleis > specific ones"
+    "value": "temples and sanctuaries > specific ones"
   },
   "67": {
     "id": 67,
     "order": "67.00000000000000000000",
-    "value": "tombs and necropoleis > catacombs"
+    "value": "tombs and necropoleis > specific ones"
   },
   "68": {
     "id": 68,
     "order": "68.00000000000000000000",
-    "value": "tombs and necropoleis > funerary architecture and monuments"
+    "value": "tombs and necropoleis > catacombs"
   },
   "69": {
     "id": 69,
     "order": "69.00000000000000000000",
-    "value": "tombs and necropoleis > other"
+    "value": "tombs and necropoleis > funerary architecture and monuments"
   },
   "70": {
     "id": 70,
     "order": "70.00000000000000000000",
-    "value": "textual sources > in general or unspecified or unspecified"
+    "value": "tombs and necropoleis > other"
   },
   "71": {
     "id": 71,
     "order": "71.00000000000000000000",
-    "value": "textual sources > literary sources > specific ones"
+    "value": "textual sources > in general or unspecified or unspecified"
   },
   "72": {
     "id": 72,
     "order": "72.00000000000000000000",
-    "value": "textual sources > other"
+    "value": "textual sources > literary sources > specific ones"
   },
   "73": {
     "id": 73,
     "order": "73.00000000000000000000",
-    "value": "settlements and cities > specific categories"
+    "value": "textual sources > other"
   },
   "74": {
     "id": 74,
     "order": "74.00000000000000000000",
-    "value": "temples and sanctuaries > other"
+    "value": "settlements and cities > specific categories"
   },
   "75": {
     "id": 75,
     "order": "75.00000000000000000000",
-    "value": "specific categories of evidence, other"
+    "value": "temples and sanctuaries > other"
   },
   "76": {
     "id": 76,
     "order": "76.00000000000000000000",
-    "value": "objects and monuments, other > victory monuments"
+    "value": "specific categories of evidence, other"
   },
   "77": {
     "id": 77,
     "order": "77.00000000000000000000",
-    "value": "Roman military > in general or unspecified"
+    "value": "objects and monuments, other > victory monuments"
   },
   "78": {
     "id": 78,
     "order": "78.00000000000000000000",
-    "value": "textual sources > Linear A and B"
+    "value": "Roman military > in general or unspecified"
   },
   "79": {
     "id": 79,
     "order": "79.00000000000000000000",
+    "value": "textual sources > Linear A and B"
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
     "value": "sculpture > other"
   }
 }
